@@ -1,8 +1,7 @@
 # Proj2
 
 To view the html page please use the following link:
-https://klcurtiss.github.io/Project2Final/
-
+https://klcurtiss.github.io/Proj2/
 
 
 Specific Requirements
